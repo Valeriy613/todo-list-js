@@ -23,4 +23,4 @@ This project was created as a **learning exercise** to practice DOM manipulation
 
 ## Live Demo
 
-Try it out here: [https://todo-list-app0318.infinityfreeapp.com](https://todo-list-app0318.infinityfreeapp.com/)
+Try it out here: https://todo-list-app0318.infinityfreeapp.com/
